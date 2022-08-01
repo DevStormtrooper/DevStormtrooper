@@ -1,5 +1,3 @@
-## Tech Stack
-
 ![HTML5](https://img.shields.io/badge/-HTML-black?logo=HTML5&logoColor=E34F26&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS-black?logo=css3&logoColor=1572B6&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&logoColor=F7DF1E&style=for-the-badge)
