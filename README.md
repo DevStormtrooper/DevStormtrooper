@@ -1,3 +1,7 @@
+I'm interested in web programing.
+
+Currently, I'm learning front-end web programing, algorithms and english.
+
 ## Stacks
 
 ![HTML5](https://img.shields.io/badge/-HTML-black?logo=HTML5&logoColor=E34F26&style=for-the-badge)
